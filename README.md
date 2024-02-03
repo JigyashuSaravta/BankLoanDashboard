@@ -4,3 +4,5 @@ A comprehensive Bank Loan Report Dashboard, designed to significantly enhance ou
 Aimed at facilitating informed decision-making, the dashboard tracks our loan portfolio's status and identifies lending strategy trends. The 'Details Dashboard' section further consolidates all crucial loan data into a user-friendly interface, offering a complete view of loan metrics, borrower profiles, and loan performance.
 <br><br>
 This tool is tailored to support strategic decisions, providing deep insights into our loan operations.
+<br><br>
+https://public.tableau.com/app/profile/jigyashu.saravta/viz/BankLoanDashboard_17069157798570/Overview
